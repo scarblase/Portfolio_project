@@ -5,7 +5,7 @@ This project analyzes **15,000 sales records** to uncover insights into sales pe
 
 ## 📂 Repository Structure
 ```
-📦 Sales-Performance-Analysis
+📦 Portfolio_project
 ├── 📄 README.md  # Project documentation
 ├── 📊 product_sales.csv  # Sales dataset
 ├── 📓 sales_analysis.ipynb  # Jupyter Notebook with full analysis
@@ -45,7 +45,7 @@ To run the analysis, follow these steps:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/Sales-Performance-Analysis.git
+git clone https://github.com/scarblase/Portfolio_project.git
 cd Sales-Performance-Analysis
 ```
 
@@ -59,7 +59,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 ```bash
 jupyter notebook
 ```
-Then, open `sales_analysis.ipynb` and run the cells.
+Then, open `notebook.ipynb` and run the cells.
 
 ## 🛠️ Tools & Technologies
 - **Python** 🐍
