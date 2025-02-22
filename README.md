@@ -8,7 +8,7 @@ This project analyzes **15,000 sales records** to uncover insights into sales pe
 📦 Portfolio_project
 ├── 📄 README.md  # Project documentation
 ├── 📊 product_sales.csv  # Sales dataset
-├── 📓 sales_analysis.ipynb  # Jupyter Notebook with full analysis
+├── 📓 updated_notebook.ipynb  # Jupyter Notebook with full analysis
 ```
 
 ## 📜 Dataset Description
